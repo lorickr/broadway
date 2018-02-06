@@ -1,0 +1,10 @@
+@charset "UTF-8";
+/* CSS Document */
+#header {
+	background-image: url("images/the-flatiron-building.png");
+	text-align: center;
+	color: white;
+}
+a.head {
+	color: white;
+}
