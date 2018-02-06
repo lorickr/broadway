@@ -4,7 +4,12 @@
 	background-image: url("images/the-flatiron-building.png");
 	text-align: center;
 	color: white;
+	font-family: "Helvetica";
 }
 a.head {
 	color: white;
+	font-size: 18px;
 }
+h1.head {
+	font-size: 70px;
+	font-weight: bold;
