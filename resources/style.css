@@ -13,3 +13,25 @@ a.head {
 h1.head {
 	font-size: 70px;
 	font-weight: bold;
+}
+.img {
+	height: 50px;
+	width: 50px;
+	margin-left: 580px;
+	margin-right: auto;
+}
+#body {
+	text-align: center;
+	font-family: "Helvetica"
+}
+p {
+	font-size: 14px;
+}
+h2 {
+	font-size: 32px;
+	font-weight: bold;
+}
+h3 {
+	font-size: 32px;
+	font-weight: bold;
+}
